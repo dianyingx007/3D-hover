@@ -7,9 +7,9 @@
 前置依赖jquery
 
 示例：
-    $('#banner').hover3d({
-		outer:$('#test')
-	});
+		$('#banner').hover3d({
+			outer:$('#test')
+		});
 
 注意事项：
 1. outer和inner参数必须为jquery对象
