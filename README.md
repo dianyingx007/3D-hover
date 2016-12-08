@@ -26,12 +26,12 @@
 	</tr>
 	<tr>
 		<td>outer</td>
-		<td>`$.noop`</td>
+		<td>$.noop</td>
 		<td>必须，3d效果的外界容器，默认为空</td>
 	</tr>
 	<tr>
 		<td>inner</td>
-		<td>`$(this)`</td>
+		<td>$(this)</td>
 		<td>3效果的模块，默认为调用该函数的对象</td>
 	</tr>
 	<tr>
